@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: background-color 0.5s;
+  }
+  
+  #quoteBox {
+    text-align: center;
+    padding: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    transition: color 0.5s;
+  }
+  .icon{
+      width: 20px;
+      height: 20px;
+      padding-right: 15px;
+  }
+  
+  #quoteText {
+    font-size: xx-large;
+  }
+  
+  #quoteAuthor {
+    font-size: x-large;
+    color: rgb(8, 5, 5);
+    padding-left: 350px;
+    margin: 10px 0 20px 0;
+  }
+  
+  #newQuoteButton {
+    padding: 10px 20px;
+    font-size: large;
+    font-family: 'Times New Roman';
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+  }
