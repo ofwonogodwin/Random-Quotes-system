@@ -1,3 +1,4 @@
+## Check out some few quotes this weekend Haha  ...
 #   Random Quote Machine. <br>
 This is a simple Random Quote Machine, <br>
 That keeps Displaying Quotes when U click **new Quote**
